@@ -7,4 +7,8 @@
 !.gitignore
 !.gitattributres
 !*.c
+<<<<<<< HEAD
 !*.h
+=======
+!*.h
+>>>>>>> dbbe1014edad949c72b131766c12bce014818a7d
